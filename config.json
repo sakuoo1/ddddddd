@@ -1,0 +1,7 @@
+{
+  "token": "MTQ2MTQ4MDMzOTU5MDYxNTA2MQ.GB2KUe.kORWB_NL59WTtPfkLfopeirshrp2XBH9VlGFRM",
+  "prefix": "!",
+  "rate_limit": 5,
+  "max_retries": 3,
+  "log_level": "INFO"
+}

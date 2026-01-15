@@ -1,0 +1,41 @@
+2026-01-15 23:07:55,016 - ERROR - Token Discord non trouvé. Veuillez définir la variable d'environnement DISCORD_TOKEN
+2026-01-15 23:08:07,714 - ERROR - Token Discord non trouvé. Veuillez définir la variable d'environnement DISCORD_TOKEN
+2026-01-15 23:09:09,569 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-15 23:09:09,573 - INFO - logging in using static token
+2026-01-15 23:09:10,881 - INFO - Shard ID None has connected to Gateway (Session ID: d536ba1bc6a7bde062ae264e7c70db3f).
+2026-01-15 23:09:12,905 - INFO - bo7 gratuit#3039 est connecté à Discord!
+2026-01-15 23:09:12,906 - INFO - Bot présent dans 1 serveurs
+2026-01-15 23:09:23,470 - INFO - Traitement du serveur telem - 0 membres
+2026-01-15 23:09:23,674 - INFO - Campagne terminée: 0/0 messages envoyés
+2026-01-15 23:10:17,054 - ERROR - Erreur de commande: Command raised an exception: NotFound: 404 Not Found (error code: 10008): Unknown Message
+2026-01-15 23:10:48,820 - INFO - Traitement du serveur telem - 0 membres
+2026-01-15 23:10:48,821 - INFO - Traitement du serveur TZ COD - 0 membres
+2026-01-15 23:10:49,079 - INFO - Campagne terminée: 0/0 messages envoyés
+2026-01-15 23:11:19,216 - INFO - Traitement du serveur telem - 0 membres
+2026-01-15 23:11:19,217 - INFO - Traitement du serveur TZ COD - 0 membres
+2026-01-15 23:11:19,447 - INFO - Campagne terminée: 0/0 messages envoyés
+2026-01-15 23:12:31,872 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-15 23:12:31,873 - INFO - logging in using static token
+2026-01-15 23:12:33,029 - INFO - Shard ID None has connected to Gateway (Session ID: f076671100927626f532337c3085f270).
+2026-01-15 23:12:35,043 - INFO - bo7 gratuit#3039 est connecté à Discord!
+2026-01-15 23:12:35,043 - INFO - Bot présent dans 2 serveurs
+2026-01-15 23:12:37,366 - INFO - Traitement du serveur TZ COD - 584 membres (total: 594)
+2026-01-15 23:13:42,515 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-15 23:13:42,518 - INFO - logging in using static token
+2026-01-15 23:13:44,630 - INFO - Shard ID None has connected to Gateway (Session ID: 8db6f81635e3ab36a27e61ed786e998d).
+2026-01-15 23:13:46,649 - INFO - bo7 gratuit#3039 est connecté à Discord!
+2026-01-15 23:13:46,650 - INFO - Bot présent dans 2 serveurs
+2026-01-15 23:13:47,603 - INFO - Traitement du serveur TZ COD - 584 membres (total: 594)
+2026-01-15 23:18:14,463 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-15 23:18:14,466 - INFO - logging in using static token
+2026-01-15 23:18:15,842 - INFO - Shard ID None has connected to Gateway (Session ID: f81703f40f0ac2c1b8cb068166fa5ffa).
+2026-01-15 23:18:17,855 - INFO - bo7 gratuit#3039 est connectÃ© Ã  Discord!
+2026-01-15 23:18:17,855 - INFO - Bot prÃ©sent dans 2 serveurs
+2026-01-15 23:19:24,213 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-01-15 23:19:24,214 - INFO - logging in using static token
+2026-01-15 23:19:25,171 - INFO - Shard ID None has connected to Gateway (Session ID: 47dafdf9e50bd1a42716a08c118d8d41).
+2026-01-15 23:19:27,187 - INFO - bo7 gratuit#3039 est connectÃ© Ã  Discord!
+2026-01-15 23:19:27,187 - INFO - Bot prÃ©sent dans 2 serveurs
+2026-01-15 23:19:35,931 - INFO - Envoi vers telem - 1 membres
+2026-01-15 23:19:37,969 - INFO - OK Message envoyÃ© Ã  tznrxa_#0
+2026-01-15 23:19:38,216 - INFO - Campagne terminÃ©e: 1/1 messages envoyÃ©s
